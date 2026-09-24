@@ -30,7 +30,7 @@ In File Explorer locate the folder containing the script, right-click on an empt
 If you prefer, you can add arguments directly to the script, here's an example:
 
 ```powershell
-.\TrueHD2Binaural_wrapper.ps1 -FilePath "C:\Movies\film.mkv" -MpvPath "C:\Tools\mpv.exe" [-KeepTemp]
+.\TrueHD2Binaural_wrapper.ps1 -FilePath "C:\Movies\film.mkv" -MpvPath "C:\Tools\mpv.exe" -KeepTemp
 ```
 
 The arguments are:
